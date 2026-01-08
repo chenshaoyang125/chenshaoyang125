@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+添加个人相关简介
 <!--
 **chenshaoyang125/chenshaoyang125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+添加个人相关简介
 -->
